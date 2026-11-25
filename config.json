@@ -1,0 +1,17 @@
+{
+  "includeKeywords": [
+    "software engineer", "software developer", "associate software engineer",
+    "full stack developer", "full-stack developer", "fullstack developer",
+    "frontend developer", "front-end developer", "backend developer", "back-end developer",
+    "react developer", ".net developer", "java developer", "devops engineer",
+    "web developer", "application developer"
+  ],
+  "excludeKeywords": ["intern", "internship", "quality assurance", "qa engineer", "sales", "account executive"],
+  "locations": [],
+  "companiesFile": "companies.json",
+  "stateFile": "data/seen-jobs.json",
+  "reportDirectory": "reports",
+  "headless": true,
+  "navigationTimeoutMs": 45000,
+  "delayBetweenCompaniesMs": 1500
+}

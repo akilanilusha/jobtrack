@@ -1,0 +1,2531 @@
+[
+  {
+    "name": "Virtusa",
+    "websiteUrl": "https://www.virtusa.com/our-offices/apac/location-42",
+    "careersUrl": "https://www.virtusa.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "IFS",
+    "websiteUrl": "https://www.ifs.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "WSO2",
+    "websiteUrl": "https://wso2.com/",
+    "careersUrl": "https://choreolabs.com/careers/",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "GTN Tech",
+    "websiteUrl": "https://gtngroup.com/asia/home/",
+    "careersUrl": "https://gtngroup.com/asia/about-us/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Altrium",
+    "websiteUrl": "https://www.altrium.io/",
+    "careersUrl": "https://careers.us.sentiva.ai/altrium",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Creative Software",
+    "websiteUrl": "https://www.creativesoftware.com/",
+    "careersUrl": "https://www.creativesoftware.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "TwinCoreTech",
+    "websiteUrl": "https://twincoretech.com/",
+    "careersUrl": "https://www.twincoretech.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "CodeGen International",
+    "websiteUrl": "https://codegen.co.uk/",
+    "careersUrl": "https://codegen.co.uk/en/company/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Gapstars",
+    "websiteUrl": "https://gapstars.net/",
+    "careersUrl": "https://www.gapstars.net/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "LSEG (London Stock Exchange Group)",
+    "websiteUrl": "https://www.lseg.com/en/careers/where-we-work/colombo-sri-lanka",
+    "careersUrl": "https://lseg.wd3.myworkdayjobs.com/Careers?locationCountry=db69e062446c11de98360015c5e6daf6&primaryLocation=51df219f279a018651969fff11000502",
+    "enabled": true,
+    "careersType": "external",
+    "ats": "workday",
+    "atsToken": null
+  },
+  {
+    "name": "MillenniumIT ESP",
+    "websiteUrl": "https://www.mitesp.com/",
+    "careersUrl": "https://www.mitesp.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "99X",
+    "websiteUrl": "https://99x.io/",
+    "careersUrl": "https://99x.io/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Ascentic",
+    "websiteUrl": "https://ascentic.se/",
+    "careersUrl": "https://career.ascentic.se/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": "teamtailor",
+    "atsToken": "app"
+  },
+  {
+    "name": "Sysco LABS Sri Lanka",
+    "websiteUrl": "https://syscolabs.lk/",
+    "careersUrl": "https://syscolabs.lk/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Aeturnum",
+    "websiteUrl": "https://www.aeturnum.com/",
+    "careersUrl": "https://www.aeturnum.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "John Keells IT",
+    "websiteUrl": "https://www.johnkeellsit.com/",
+    "careersUrl": "https://www.johnkeellsit.com/digital-careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Zone24x7",
+    "websiteUrl": "https://zone24x7.com/",
+    "careersUrl": "https://zone24x7.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Axiata Digital Labs",
+    "websiteUrl": "https://www.axiatadigitallabs.com/",
+    "careersUrl": "https://www.axiatadigitallabs.com/adl-careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Calcey",
+    "websiteUrl": "https://calcey.com/",
+    "careersUrl": "https://calcey.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Fortude",
+    "websiteUrl": "https://fortude.co/",
+    "careersUrl": "https://careers.fortude.co/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "SimCentric Technologies (Sri Lanka)",
+    "websiteUrl": "https://www.simct.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Orfium (Sri Lanka)",
+    "websiteUrl": "https://www.orfium.com/",
+    "careersUrl": "https://www.orfium.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": "workable",
+    "atsToken": "j"
+  },
+  {
+    "name": "Wiley Global Technology (Pvt) Ltd",
+    "websiteUrl": "https://www.wiley.com/",
+    "careersUrl": "https://www.wiley.com/en-sg/about-us/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "ITX360 (Pvt) Ltd",
+    "websiteUrl": "https://www.itx360.com/",
+    "careersUrl": "https://www.itx360.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "BISTEC Global Services",
+    "websiteUrl": "https://bistecglobal.com/",
+    "careersUrl": "https://bistecglobal.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "N‑able (Pvt) Ltd",
+    "websiteUrl": "https://slasscom.lk/directory-detail/n-able-pvt-ltd/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Newnop",
+    "websiteUrl": "https://www.newnop.com/",
+    "careersUrl": "https://www.newnop.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Digiratina Technology Solutions",
+    "websiteUrl": "https://www.digiratina.com/",
+    "careersUrl": "https://www.digiratina.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "SYNERGEN Health",
+    "websiteUrl": "",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Zone24x7 Inc.",
+    "websiteUrl": "https://www.zone24x7.com/",
+    "careersUrl": "https://zone24x7.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Swivel Group",
+    "websiteUrl": "https://swivelgroup.com.au/",
+    "careersUrl": "https://humaniseai.io/careers",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Codification",
+    "websiteUrl": "https://codification.io/",
+    "careersUrl": "https://codification.io/career/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Sana Commerce",
+    "websiteUrl": "https://www.sana-commerce.com/",
+    "careersUrl": "https://www.sana-commerce.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": "smartrecruiters",
+    "atsToken": "SanaCommerce"
+  },
+  {
+    "name": "Eyepax",
+    "websiteUrl": "https://eyepax.com/",
+    "careersUrl": "https://eyepax.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "JRC Software",
+    "websiteUrl": "https://jrcsoftware.com/",
+    "careersUrl": "https://jrcsoftware.com/careers.html",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Infor",
+    "websiteUrl": "https://www.infor.com/",
+    "careersUrl": "https://www.infor.com/about/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Inivos",
+    "websiteUrl": "https://www.inivosglobal.com/",
+    "careersUrl": "https://www.inivosglobal.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "BoardPAC",
+    "websiteUrl": "https://boardpac.co/",
+    "careersUrl": "https://boardpac.co/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Insighture",
+    "websiteUrl": "https://www.insighture.com/",
+    "careersUrl": "https://www.insighture.com/work-with-us",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "IronOne",
+    "websiteUrl": "https://www.irononetech.com/",
+    "careersUrl": "https://www.irononetech.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "NCINGA",
+    "websiteUrl": "https://www.ncinga.net/",
+    "careersUrl": "https://www.ncinga.net/careers-people/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Acentura Inc",
+    "websiteUrl": "https://www.acentura.com/",
+    "careersUrl": "https://www.acentura.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "1 Billion Tech",
+    "websiteUrl": "https://1billiontech.com/",
+    "careersUrl": "https://1billiontech.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "DirectFN Sri Lanka",
+    "websiteUrl": "https://directfn.lk/en/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "WIA Systems Inc",
+    "websiteUrl": "https://www.wiasystems.com/",
+    "careersUrl": "https://www.wiasystems.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Intervest Software Technologies (Pvt) Ltd",
+    "websiteUrl": "https://intervest.lk/",
+    "careersUrl": "https://intervest.lk/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Cloud Solutions International",
+    "websiteUrl": "https://cloudsolutions.lk/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Creately",
+    "websiteUrl": "https://creately.com/",
+    "careersUrl": "https://careers-page.com/creately",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Allion Technologies",
+    "websiteUrl": "https://www.alliontechnologies.com/",
+    "careersUrl": "https://www.alliontechnologies.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Cambio Software Engineering",
+    "websiteUrl": "https://www.cambio.lk/",
+    "careersUrl": "https://www.cambio.lk/join-us/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Surge Global",
+    "websiteUrl": "https://surge.global/",
+    "careersUrl": "https://surge.global/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Rootcode",
+    "websiteUrl": "https://rootcode.io/",
+    "careersUrl": "https://rootcode.ai/careers",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Omobio (Pvt) Ltd",
+    "websiteUrl": "https://www.omobio.net/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Arimac Digital",
+    "websiteUrl": "https://arimac.digital/",
+    "careersUrl": "https://careers.arimac.digital/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Brand Finance Lanka",
+    "websiteUrl": "https://brandfinance.com/offices/sri-lanka",
+    "careersUrl": "https://brandfinance.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Vetstoria",
+    "websiteUrl": "https://www.vetstoria.com/",
+    "careersUrl": "https://www.vetstoria.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": "lever",
+    "atsToken": "petdesk"
+  },
+  {
+    "name": "Pearson Lanka",
+    "websiteUrl": "https://www.pearson.com/",
+    "careersUrl": "https://www.pearson.com/en-us/career-ready.html",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Mad Mobile",
+    "websiteUrl": "https://madmobile.com/",
+    "careersUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=52fc78c9-3ba9-4d8d-b568-c96bc8d3b5c2&ccId=19000101_000001&lang=en_US",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "[H2O.ai](http://H2O.ai)",
+    "websiteUrl": "https://h2o.ai/",
+    "careersUrl": "https://h2o.ai/company/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Techneapp",
+    "websiteUrl": "https://www.techneapp.com/",
+    "careersUrl": "https://www.techneapp.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "TWC Innovations",
+    "websiteUrl": "https://twcinnovations.com/",
+    "careersUrl": "https://twcinnovations.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "POTENZA (Pvt) Ltd",
+    "websiteUrl": "https://www.onepotenza.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Kainovation Technologies",
+    "websiteUrl": "https://kainovation.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "HCLTech Sri Lanka",
+    "websiteUrl": "https://www.hcltech.com/en-lk/careers",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Persistent Systems",
+    "websiteUrl": "https://www.persistent.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Codimite",
+    "websiteUrl": "https://codimite.ai/",
+    "careersUrl": "https://codimite.ai/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": "bamboohr",
+    "atsToken": "codimitepvt"
+  },
+  {
+    "name": "Itechro",
+    "websiteUrl": "https://itechro.com/",
+    "careersUrl": "https://itechro.com/careers/#careers-current-openings",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Builtapps Business Solutions",
+    "websiteUrl": "https://builtapps.com/",
+    "careersUrl": "https://builtapps.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Sydpro - Sri Lanka",
+    "websiteUrl": "https://contactout.com/company/Sydpro-Sri-Lanka-32497/headquarters",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Code94 Labs",
+    "websiteUrl": "https://code94labs.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "OREL IT",
+    "websiteUrl": "https://orelit.com/",
+    "careersUrl": "https://orelit.com/join-us/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Insfra Technologies (Pvt) Ltd",
+    "websiteUrl": "https://www.signalhire.com/companies/insfra-technologies-pvt-ltd",
+    "careersUrl": "https://www.signalhire.com/login",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Circles",
+    "websiteUrl": "https://circles.co/",
+    "careersUrl": "https://circles.wd103.myworkdayjobs.com/Circles",
+    "enabled": true,
+    "careersType": "external",
+    "ats": "workday",
+    "atsToken": null
+  },
+  {
+    "name": "Fcode Labs",
+    "websiteUrl": "https://www.fcodelabs.com",
+    "careersUrl": "https://www.fcodelabs.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Corzent",
+    "websiteUrl": "https://www.corzent.com",
+    "careersUrl": "https://careers.corzent.com/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "tecciance",
+    "websiteUrl": "https://tecciance.com",
+    "careersUrl": "https://www.tecciance.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "CodeLantic",
+    "websiteUrl": "https://www.codelantic.com",
+    "careersUrl": "https://www.codelantic.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "ZinCaT Technology",
+    "websiteUrl": "https://www.zincat.net",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "D HELP HUB Private Limited",
+    "websiteUrl": "https://www.dhelphub.com",
+    "careersUrl": "https://www.dhelphub.com/enterprise-workforce-management-system-with-job-allocation-data-analytics/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "iLabs",
+    "websiteUrl": "https://www.ilabs.lk",
+    "careersUrl": "https://www.ilabs.lk/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Epic Lanka",
+    "websiteUrl": "https://www.epictechnology.lk",
+    "careersUrl": "https://www.epictechnology.lk/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "ZILLIONe",
+    "websiteUrl": "https://zillione.com",
+    "careersUrl": "https://www.zillione.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "PickMe",
+    "websiteUrl": "https://pickme.lk",
+    "careersUrl": "https://pickme.lk/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Dijital Team",
+    "websiteUrl": "https://www.dijitalteam.lk",
+    "careersUrl": "https://www.dijitalteam.lk/careers?hsLang=en",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "InTalent Asia",
+    "websiteUrl": "https://www.intalent.lk",
+    "careersUrl": "https://intalent.asia/services/recruitment-head-hunting-and-executive-search/",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Standord",
+    "websiteUrl": "",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Deloitte",
+    "websiteUrl": "https://www.deloitte.com/lk/en.html",
+    "careersUrl": "https://southasiacareers.deloitte.com/?icid=top_&icid=top_job-search",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Innodata Lanka",
+    "websiteUrl": "https://www.innodata.com/",
+    "careersUrl": "https://innodatacareers.com/",
+    "enabled": true,
+    "careersType": "external",
+    "ats": "greenhouse",
+    "atsToken": "innodatainc"
+  },
+  {
+    "name": "Mitra AI",
+    "websiteUrl": "https://www.mitrai.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Synopsys Inc",
+    "websiteUrl": "https://www.synopsys.com/",
+    "careersUrl": "https://careers.synopsys.com/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Sri Lanka Telecom",
+    "websiteUrl": "https://www.slt.lk/",
+    "careersUrl": "https://www.slt.lk/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Mobitel (Pvt) Ltd",
+    "websiteUrl": "https://www.sltmobitel.lk/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Grubtech",
+    "websiteUrl": "https://www.grubtech.com/",
+    "careersUrl": "https://grubtech.com/en/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": "bamboohr",
+    "atsToken": "grubtech"
+  },
+  {
+    "name": "Davton",
+    "websiteUrl": "https://davton.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "CODICE",
+    "websiteUrl": "https://www.codicetech.com/",
+    "careersUrl": "https://www.codicetech.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Atlas Labs",
+    "websiteUrl": "https://www.signalhire.com/companies/atlas-labs-pty-ltd",
+    "careersUrl": "https://www.signalhire.com/jobs/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "H‑Town Technologies Inc.",
+    "websiteUrl": "https://www.htown-tech.com/",
+    "careersUrl": "https://www.htown-tech.com/careers.html",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Brennan IT",
+    "websiteUrl": "https://www.brennanit.com.au/",
+    "careersUrl": "https://www.brennanit.com.au/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Derana Macroentertainment",
+    "websiteUrl": "http://www.adaderana.lk",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Simsyn Pvt Ltd",
+    "websiteUrl": "",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Embla Software Innovation (Pvt) Ltd",
+    "websiteUrl": "https://lk.embla.asia/",
+    "careersUrl": "https://www.linkedin.com/company/embla-software-innovation-pvt-ltd/jobs/",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Tech One Global Lanka (Pvt) Ltd",
+    "websiteUrl": "https://techoneglobal.com/",
+    "careersUrl": "https://techoneglobal.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "VitalHub Innovations Lab",
+    "websiteUrl": "https://www.vitalhub.lk/",
+    "careersUrl": "https://www.vitalhub.lk/jobs",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": "bamboohr",
+    "atsToken": "vitalhub"
+  },
+  {
+    "name": "PMsquare Sri Lanka",
+    "websiteUrl": "https://www.pmsquare.lk/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "MyBudget",
+    "websiteUrl": "https://www.mybudget.com.au/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Appspotr",
+    "websiteUrl": "https://studios.appspotr.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Random Software Ltd",
+    "websiteUrl": "https://www.randomsoftware.net/",
+    "careersUrl": "https://randomsoftware.net/career",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "ADA",
+    "websiteUrl": "https://www.adaglobal.com/offices/srilanka",
+    "careersUrl": "http://adaglobal.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "MoodforCode",
+    "websiteUrl": "https://moodforcode.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "VEZOLVE",
+    "websiteUrl": "https://vezolve.com/",
+    "careersUrl": "https://vezolve.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Data Capture Experts",
+    "websiteUrl": "http://www.datacaptureexperts.com.au/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "INVORG",
+    "websiteUrl": "https://www.invorg.com/",
+    "careersUrl": "https://www.invorg.com/career",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "EC \\",
+    "websiteUrl": "https://www.elysiancrest.com/",
+    "careersUrl": "https://elysiancrest.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "hSenid Mobile Solutions (Pvt) Ltd",
+    "websiteUrl": "https://www.hsenidmobile.com/",
+    "careersUrl": "https://hsenidmobile.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Third Space Global",
+    "websiteUrl": "https://www.thirdspaceglobal.com/",
+    "careersUrl": "https://apply.workable.com/thirdspacelearning/?lng=en",
+    "enabled": true,
+    "careersType": "external",
+    "ats": "workable",
+    "atsToken": "thirdspacelearning"
+  },
+  {
+    "name": "Waterlily Labs",
+    "websiteUrl": "https://www.waterlilylabs.com/",
+    "careersUrl": "https://www.waterlilylabs.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Imperial Edutech",
+    "websiteUrl": "https://lk.linkedin.com/company/imperial-edutech-sl",
+    "careersUrl": "https://www.linkedin.com/jobs/search?trk=organization_guest_guest_nav_menu_jobs",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "MEXXAR",
+    "websiteUrl": "https://mexxar.co.uk",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Bhasha",
+    "websiteUrl": "https://www.bhasha.lk/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "MillionSpaces",
+    "websiteUrl": "https://millionspaces.com/",
+    "careersUrl": "https://millionspaces.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Emojot",
+    "websiteUrl": "https://emojot.com/",
+    "careersUrl": "https://emojot.com/effortlessly-efficient-hiring-how-emojot-ats-streamlines-your-recruitment-process/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Apium Innovations",
+    "websiteUrl": "https://apium.io/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "SenzMate",
+    "websiteUrl": "https://www.senzmate.com/",
+    "careersUrl": "https://www.senzmate.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Nexa Lab",
+    "websiteUrl": "",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Infomate (Pvt) Ltd – John Keells Holdings PLC",
+    "websiteUrl": "https://infomateworld.com/",
+    "careersUrl": "https://infomateworld.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Econsulate",
+    "websiteUrl": "https://econsulate.net/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "asta",
+    "websiteUrl": "https://astacodelabs.com/",
+    "careersUrl": "https://astacodelabs.com/#",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Softvil Technologies Sri Lanka",
+    "websiteUrl": "https://www.softvilmedia.com/",
+    "careersUrl": "https://www.softvilmedia.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Azend Technologies",
+    "websiteUrl": "https://www.azendtech.com/",
+    "careersUrl": "https://azendtech.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "eight25",
+    "websiteUrl": "https://www.eight25media.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Purple Software",
+    "websiteUrl": "https://purple.lk/",
+    "careersUrl": "https://purple.lk/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Q4US",
+    "websiteUrl": "https://q4us.dev/",
+    "careersUrl": "https://q4us.dev/join-our-team/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": "smartrecruiters",
+    "atsToken": "job-widget"
+  },
+  {
+    "name": "Encyte",
+    "websiteUrl": "https://encyte.io/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Xiteb (Pvt) Ltd",
+    "websiteUrl": "https://xiteb.com/",
+    "careersUrl": "https://careers.xiteb.com/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Camms, a Riskonnect Company",
+    "websiteUrl": "https://cammsgroup.com/",
+    "careersUrl": "https://riskonnect.com/company/careers/",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Itrowin",
+    "websiteUrl": "",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Parallax Technologies (Pvt) Ltd",
+    "websiteUrl": "https://parallaxtec.com/",
+    "careersUrl": "https://parallaxtec.com/vacancies/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Cubo Systems International (Pvt) Ltd",
+    "websiteUrl": "https://contactout.com/company/cubo-systems-international-pvt-ltd-3753",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Codezela Technologies",
+    "websiteUrl": "https://codezela.com/",
+    "careersUrl": "https://cca.it.com/",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Exactpro",
+    "websiteUrl": "https://exactpro.com/",
+    "careersUrl": "https://careers.exactpro.com/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Axinom",
+    "websiteUrl": "https://www.axinom.com/",
+    "careersUrl": "https://www.axinom.com/jobs",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "EchonLabs",
+    "websiteUrl": "https://www.worldwidephonebooks.com/LK/echonlabs-pvt-ltd-070-308-9692",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "DMS Software Technologies (Pvt) Ltd",
+    "websiteUrl": "https://www.dmsswt.com/",
+    "careersUrl": "https://www.dmsswt.com/career.html",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Inova IT Systems",
+    "websiteUrl": "https://www.inovaitsys.com/",
+    "careersUrl": "https://www.inovaitsys.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Genesiis Software (Pvt) Ltd",
+    "websiteUrl": "https://www.genesiis.com/",
+    "careersUrl": "https://www.genesiis.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "ESOFT Technologies (Pvt) Ltd",
+    "websiteUrl": "https://www.srilankabusiness.com/exporters-directory/company-profiles/esoft-technologies-private-ltd/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "ZOOZ.LK (Pvt) Ltd",
+    "websiteUrl": "https://zooz.lk/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Programus Ltd",
+    "websiteUrl": "https://www.srilanka-places.com/places/programus-ltd-colombo-00400",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "EzyCode (Pvt) Ltd",
+    "websiteUrl": "https://www.ezycode.lk/",
+    "careersUrl": "https://www.ezycode.lk/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Telexar Technologies",
+    "websiteUrl": "https://telexarsoftware.com/",
+    "careersUrl": "https://telexarsoftware.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Archnix",
+    "websiteUrl": "https://archnix.com/",
+    "careersUrl": "https://archnix.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "InEight",
+    "websiteUrl": "https://ineight.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "M I Synergy (Pvt) Ltd",
+    "websiteUrl": "https://www.misynergy.com/",
+    "careersUrl": "https://www.linkedin.com/company/m-i-synergy/jobs",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Infosoft Lanka (Pvt) Ltd",
+    "websiteUrl": "https://www.infosoft.lk/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "huex Pvt Ltd",
+    "websiteUrl": "https://huex.io/",
+    "careersUrl": "https://huex.io/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "RedBeryl IT (Pvt) Ltd",
+    "websiteUrl": "https://lk.linkedin.com/company/red-beryl-it",
+    "careersUrl": "https://lk.linkedin.com/jobs",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "4Axis Solutions (Pvt) Ltd",
+    "websiteUrl": "https://4axissolutions.com/",
+    "careersUrl": "https://4axis.com/careers",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Empite",
+    "websiteUrl": "https://lk.linkedin.com/company/empite",
+    "careersUrl": "https://lk.linkedin.com/jobs",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "solomoIT",
+    "websiteUrl": "https://solomoit.com.au/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Creo360",
+    "websiteUrl": "https://creo360.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "thinkCube Systems (Pvt) Ltd",
+    "websiteUrl": "https://thinkcube.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Afisol Private Limited",
+    "websiteUrl": "https://afisol.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Era Biz Solutions",
+    "websiteUrl": "https://erabizsolutions.io/",
+    "careersUrl": "https://erabizsolutions.io/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "ESSHVA",
+    "websiteUrl": "https://esshva.com/",
+    "careersUrl": "https://esshva.com/career/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Avantrio",
+    "websiteUrl": "https://avantrio.xyz/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Nekfa Australia (Pvt) Ltd",
+    "websiteUrl": "https://nekfa.com/",
+    "careersUrl": "https://nekfa.com/#careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Four Corners Lanka (Pte) Ltd",
+    "websiteUrl": "https://fclanka.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Wavenet International (Pvt) Ltd",
+    "websiteUrl": "https://www.globalwavenet.com/",
+    "careersUrl": "https://www.globalwavenet.com/company/join-us/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Blue Chip Technical Services (Pvt) Ltd",
+    "websiteUrl": "https://www.bluechip.lk/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Twire",
+    "websiteUrl": "",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Binary Technologies",
+    "websiteUrl": "https://www.lusha.com/business/6111211874d18299/",
+    "careersUrl": "https://www.lusha.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "CMS (Content Management & Solutions)",
+    "websiteUrl": "https://www.cms.lk/",
+    "careersUrl": "https://www.cms.lk/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "CN Global Pty. Ltd.",
+    "websiteUrl": "https://cnglobal.com.au/",
+    "careersUrl": "https://cnglobal.com.au/local-recruitment/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "ACECAM (Pvt) Ltd",
+    "websiteUrl": "https://acecamtech.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Thiken",
+    "websiteUrl": "https://www.thiken.com/",
+    "careersUrl": "https://thiken.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Apps Lanka Software Solutions",
+    "websiteUrl": "https://appslanka.lk",
+    "careersUrl": "https://appslanka.lk/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "IT MARTX",
+    "websiteUrl": "https://itmartx.com",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "EFutures",
+    "websiteUrl": "https://www.efuturesworld.com",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Coolbit Software Solutions (Pvt) Ltd.",
+    "websiteUrl": "http://css.lk",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Cyber Concepts Sri Lanka",
+    "websiteUrl": "https://cyberconceptslk.com",
+    "careersUrl": "https://cyberconceptslk.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "LAYOUTindex",
+    "websiteUrl": "https://www.layoutindex.com",
+    "careersUrl": "https://www.layoutindex.com/company/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Amplifyn",
+    "websiteUrl": "https://www.amplifyn.com",
+    "careersUrl": "https://www.linkedin.com/company/amplifyn/jobs/",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Geveo",
+    "websiteUrl": "https://www.geveo.com",
+    "careersUrl": "https://www.geveo.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "i3 Software",
+    "websiteUrl": "https://www.i3cubes.com",
+    "careersUrl": "https://www.i3cubes.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "H2Compute",
+    "websiteUrl": "https://www.h2compute.com",
+    "careersUrl": "https://h2compute.com/career/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Visiro Global",
+    "websiteUrl": "https://visirogs.com",
+    "careersUrl": "https://visirogs.com/about-us/#explore-careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Ceylon Solutions",
+    "websiteUrl": "https://www.ceylonsolutions.com",
+    "careersUrl": "https://ceylonsolutions.com/work-with-us",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Innovative Software Engineering (Pvt) Ltd",
+    "websiteUrl": "https://lk.linkedin.com/company/innosoftwareworld",
+    "careersUrl": "https://www.linkedin.com/company/linkedin/jobs",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "SoftVessel",
+    "websiteUrl": "https://www.softvessel.com",
+    "careersUrl": "https://www.softvessel.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Zebra Technologies",
+    "websiteUrl": "https://www.zebra.com",
+    "careersUrl": "https://www.zebra.com/ap/en/about-zebra/careers.html",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "S. P. Solutions (Pvt) Limited",
+    "websiteUrl": "https://sp-solutions.biz/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Sarasa Soft Solutions (Pvt) Ltd.",
+    "websiteUrl": "https://www.signalhire.com/companies/sarasa-soft-solutions-pvt-ltd",
+    "careersUrl": "https://www.signalhire.com/jobs/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "iTelaSoft",
+    "websiteUrl": "https://www.itelasoft.com",
+    "careersUrl": "https://www.itelasoft.com.au/v2/careers",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Silverline IT",
+    "websiteUrl": "https://silverline.lk",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Innovative‑e (Pvt) Ltd.",
+    "websiteUrl": "",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "XGen Group",
+    "websiteUrl": "https://xgengroup.com.au/",
+    "careersUrl": "https://xgengroup.com.au/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "ITelligence Services (Pvt) Limited",
+    "websiteUrl": "https://www.signalhire.com/companies/itelligence-services-pvt-limited",
+    "careersUrl": "https://www.signalhire.com/jobs/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Bileeta",
+    "websiteUrl": "https://bileeta.com/",
+    "careersUrl": "https://bileeta.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Mainframe (Pvt) Ltd.",
+    "websiteUrl": "https://mainframe.lk/",
+    "careersUrl": "https://mainframe.lk/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "ILT Software",
+    "websiteUrl": "https://www.iltsoftware.org/",
+    "careersUrl": "https://www.iltsoftware.org/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Ceynocta (Pvt) Ltd",
+    "websiteUrl": "https://www.ceynocta.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Platform One",
+    "websiteUrl": "https://www.srilanka-places.com/places/platform-one-pvt-ltd-tisara-plaza",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Texonic Information Systems (Pvt) Ltd",
+    "websiteUrl": "",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Csquare Technologies",
+    "websiteUrl": "https://lk.linkedin.com/company/csquare-technologies",
+    "careersUrl": "https://lk.linkedin.com/jobs",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Kingslake",
+    "websiteUrl": "https://old.slasscom.lk/profile/Kingslake/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Pentagon i Runway",
+    "websiteUrl": "https://pentagonit.net/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "ERP Lanka (Pvt) Ltd",
+    "websiteUrl": "https://www.signalhire.com/companies/erp-lanka-pvt-ltd",
+    "careersUrl": "https://www.signalhire.com/jobs/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Corecube Pvt Ltd",
+    "websiteUrl": "https://www.srilanka-places.com/places/corecube-pvt-ltd-colombo-00500",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "XdotO Concepts",
+    "websiteUrl": "https://www.xdoto.io/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Omni Stack Technologies",
+    "websiteUrl": "https://lk.linkedin.com/company/omnistackdigital",
+    "careersUrl": "https://www.linkedin.com/company/linkedin/jobs",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Exon Software Solutions",
+    "websiteUrl": "https://exon.lk",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "IdeaBits",
+    "websiteUrl": "https://www.srilanka-places.com/places/ideabits-lanka-00005",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Swartup",
+    "websiteUrl": "https://www.swartup.com/",
+    "careersUrl": "https://www.swartup.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Flexible Information Technology (Pvt) Ltd",
+    "websiteUrl": "https://fitlk.com/",
+    "careersUrl": "https://fitlk.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "REDQUANTUM SOFTWARE ENGINEERING (Pvt) Ltd",
+    "websiteUrl": "https://lk.linkedin.com/company/redquantum-software-engineering-pvt-ltd",
+    "careersUrl": "https://www.linkedin.com/jobs/search?trk=organization_guest_guest_nav_menu_jobs",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "We Are Designers",
+    "websiteUrl": "https://wearedesigners.net/",
+    "careersUrl": "https://wearedesigners.net/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Pagero",
+    "websiteUrl": "https://www.pagero.com/",
+    "careersUrl": "https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site",
+    "enabled": true,
+    "careersType": "external",
+    "ats": "workday",
+    "atsToken": null
+  },
+  {
+    "name": "H Connect International",
+    "websiteUrl": "https://hconnectint.com/",
+    "careersUrl": "https://www.hconnectint.com/join-us/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "We Make Platforms",
+    "websiteUrl": "https://www.wemakeplatforms.io/",
+    "careersUrl": "https://www.wemakeplatforms.io/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "XigeniX",
+    "websiteUrl": "https://xigenix.com/",
+    "careersUrl": "https://xigenix.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "XITRICON",
+    "websiteUrl": "https://xitricon.com/",
+    "careersUrl": "https://xitricon.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Tapro Technologies (Sri Lanka)",
+    "websiteUrl": "https://lk.linkedin.com/company/tapro-technologies-pvt-ltd",
+    "careersUrl": "https://lk.linkedin.com/jobs",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Nagarro",
+    "websiteUrl": "https://www.nagarro.com/",
+    "careersUrl": "https://www.nagarro.com/en/careers?hsLang=en",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Xyicon",
+    "websiteUrl": "https://www.xyicon.com/",
+    "careersUrl": "https://www.xyicon.com/xyicon-careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Yenlo",
+    "websiteUrl": "https://www.yenlo.com/",
+    "careersUrl": "https://yenlo.careers/",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Zapmii",
+    "websiteUrl": "https://www.feedsfloor.com/profile/zapmii",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Stax",
+    "websiteUrl": "https://www.stax.com/",
+    "careersUrl": "https://www.stax.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Techlabs Global Private Ltd",
+    "websiteUrl": "https://lk.linkedin.com/company/techlabs-global-private-ltd",
+    "careersUrl": "https://lk.linkedin.com/jobs",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Xeptagon",
+    "websiteUrl": "https://www.xeptagon.com/",
+    "careersUrl": "https://www.xeptagon.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Tech Venturas",
+    "websiteUrl": "",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Thirdfort",
+    "websiteUrl": "https://www.thirdfort.com/",
+    "careersUrl": "https://www.thirdfort.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "TIQRI",
+    "websiteUrl": "https://www.tiqri.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Dijital Team LK",
+    "websiteUrl": "",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Treinetic",
+    "websiteUrl": "https://treinetic.com/",
+    "careersUrl": "https://treinetic.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Trust Payments",
+    "websiteUrl": "https://www.trustpayments.com/",
+    "careersUrl": "https://www.trustpayments.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Twixia",
+    "websiteUrl": "https://www.twixia.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Typefi Systems",
+    "websiteUrl": "https://www.typefi.com/",
+    "careersUrl": "https://www.typefi.com/about/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "UNIBENCH",
+    "websiteUrl": "https://www.unibench.com.au/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "VeroxLabs",
+    "websiteUrl": "https://www.veroxlabs.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Villvay",
+    "websiteUrl": "https://www.villvay.com/",
+    "careersUrl": "https://villvay.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "OpusXenta",
+    "websiteUrl": "https://byond.cloud/",
+    "careersUrl": "https://byond.cloud/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "OSOS",
+    "websiteUrl": "https://osos.run/",
+    "careersUrl": "https://osos.run/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Perituza Software Solutions",
+    "websiteUrl": "https://perituza.com/",
+    "careersUrl": "https://careers.perituza.com/jobs/Careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Planlogic",
+    "websiteUrl": "https://www.planlogic.com.au/",
+    "careersUrl": "https://www.planlogic.com.au/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "RedBlocks Technologies",
+    "websiteUrl": "https://redblocks.io/",
+    "careersUrl": "https://redblocks.io/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "ALLSERV",
+    "websiteUrl": "https://allserv.com/",
+    "careersUrl": "https://allserv.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "RozieAI",
+    "websiteUrl": "https://www.rozie.ai/",
+    "careersUrl": "https://www.rozieai.com/#request-access1",
+    "enabled": true,
+    "careersType": "external",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "SEBSA",
+    "websiteUrl": "https://sebsaworld.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Serviceform",
+    "websiteUrl": "https://www.serviceform.com/",
+    "careersUrl": "https://dash.serviceform.com/careers/serviceform",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Delivergate",
+    "websiteUrl": "https://uk.linkedin.com/company/delivergate",
+    "careersUrl": "https://www.linkedin.com/jobs/search?trk=organization_guest_guest_nav_menu_jobs",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Covalent Systems",
+    "websiteUrl": "",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Prime One Global",
+    "websiteUrl": "https://www.primeone.global/",
+    "careersUrl": "https://engage.primeone.global/jobs/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "QualitApps",
+    "websiteUrl": "https://www.qualitapps.lk/",
+    "careersUrl": "https://qualitapps.lk/job-profiles/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "SilverStripers",
+    "websiteUrl": "https://www.silverstripers.com/our-work/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "SmashTaps",
+    "websiteUrl": "https://smashtaps.com/",
+    "careersUrl": "https://smashtaps.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Spades",
+    "websiteUrl": "https://www.linkedin.com/company/spadesapp/",
+    "careersUrl": "https://www.linkedin.com/jobs/search?trk=organization_guest_guest_nav_menu_jobs",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "KochaSoft",
+    "websiteUrl": "https://www.kochasoft.com/",
+    "careersUrl": "https://www.kochasoft.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Kodez",
+    "websiteUrl": "https://www.kodez.com.au/",
+    "careersUrl": "https://www.kodez.com.au/#careersSection",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Kognitiv Corporation",
+    "websiteUrl": "https://www.kognitiv.com/",
+    "careersUrl": "https://www.kognitiv.com/company/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Limark Technologies",
+    "websiteUrl": "https://www.limarktech.com/",
+    "careersUrl": "https://start.limarktech.com/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Lucytech",
+    "websiteUrl": "https://careers.lucytech.se/",
+    "careersUrl": "https://www.teamtailor.com/?utm_campaign=poweredby&utm_content=careers.lucytech.se&utm_medium=referral&utm_source=career-site",
+    "enabled": true,
+    "careersType": "external",
+    "ats": "teamtailor",
+    "atsToken": "www"
+  },
+  {
+    "name": "Matific – Sri Lanka",
+    "websiteUrl": "https://www.crunchbase.com/organization/m-daq",
+    "careersUrl": "https://about.crunchbase.com/about-us/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": "teamtailor",
+    "atsToken": "crunchbase"
+  },
+  {
+    "name": "M‑DAQ Global",
+    "websiteUrl": "",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "METATECHNO LANKA (Pvt) Ltd",
+    "websiteUrl": "https://www.srilankabusiness.com/exporters-directory/company-profiles/metatechno-lanka-company-pvt-ltd/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Multiplier",
+    "websiteUrl": "https://www.usemultiplier.com/",
+    "careersUrl": "https://www.usemultiplier.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Otelier",
+    "websiteUrl": "https://otelier.io/",
+    "careersUrl": "https://otelier.io/company/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Novigi",
+    "websiteUrl": "https://www.novigi.com.au/",
+    "careersUrl": "https://www.novigi.com.au/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "OKLO Private Limited",
+    "websiteUrl": "https://www.okloworld.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Openprovider",
+    "websiteUrl": "https://www.openprovider.com/",
+    "careersUrl": "https://www.openprovider.com/company/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": "personio",
+    "atsToken": "openprovider"
+  },
+  {
+    "name": "FYXO",
+    "websiteUrl": "https://fyxo.global/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Gotli Labs",
+    "websiteUrl": "https://www.gotlilabs.com/en/",
+    "careersUrl": "https://gotlilabs.com/vacancy/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "GP Director (Pvt) Ltd",
+    "websiteUrl": "https://gpdirector.com.au/",
+    "careersUrl": "https://gpdirector.com.au/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "DMS Software Engineering (Pvt) Ltd",
+    "websiteUrl": "https://www.dmsswe.com/",
+    "careersUrl": "https://www.dmsswe.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "EXE.lk (Pvt) Ltd",
+    "websiteUrl": "https://exe.lk/",
+    "careersUrl": "https://exe.lk/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Verdentra",
+    "websiteUrl": "https://www.verdentra.com/",
+    "careersUrl": "https://www.verdentra.com/careers/",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "IGT1 Lanka",
+    "websiteUrl": "https://igt1sl.com/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "BillTrust",
+    "websiteUrl": "https://www.billtrust.com/",
+    "careersUrl": "https://www.billtrust.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Enactor",
+    "websiteUrl": "https://enactor.co/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Sysco LABS",
+    "websiteUrl": "https://syscolabs.lk/",
+    "careersUrl": "https://syscolabs.lk/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "N‑Able",
+    "websiteUrl": "https://www.srilankabusiness.com/exporters-directory/company-profiles/n-able-pvt-ltd/",
+    "careersUrl": "",
+    "enabled": true,
+    "careersType": null,
+    "ats": null,
+    "atsToken": null
+  },
+  {
+    "name": "Digital400",
+    "websiteUrl": "https://digital400.com/",
+    "careersUrl": "https://digital400.com/careers",
+    "enabled": true,
+    "careersType": "internal",
+    "ats": null,
+    "atsToken": null
+  }
+]

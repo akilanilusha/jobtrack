@@ -1,0 +1,20 @@
+{
+  "name": "jobtrack-playwright",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scan": "tsx src/index.ts",
+    "scan:headed": "HEADED=true tsx src/index.ts",
+    "dashboard": "tsx src/dashboard.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "playwright": "^1.56.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

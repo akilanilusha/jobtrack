@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Example Company",
+    "careersUrl": "https://example.com/careers",
+    "enabled": false,
+    "jobLinkSelector": "a[href*='job'], a[href*='career'], a[href*='position']"
+  }
+]
