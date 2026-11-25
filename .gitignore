@@ -4,3 +4,4 @@ dist/
 data/*.json
 reports/*
 !reports/.gitkeep
+companies.json
